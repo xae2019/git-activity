@@ -25,6 +25,7 @@ Name, Email, and Website URL
  * Xavier Greene
    * Email:greenex@kean.edu
    * Website:http://eve.kean.edu/~greenex/XGproject1.html
+   *Second website: http://eve.kean.edu/~greenex/JaydesJewelry/JaydesJewelry.html
 
 * Sunny Patel
     * Email: patelsu1@kean.edu
